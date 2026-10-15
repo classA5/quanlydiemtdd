@@ -74,4 +74,4 @@ st.bar_chart(df.set_index("Họ tên")["Tổng kết"])
 
 # ===== 9. HỌ TÊN + MSSV Ở CUỐI TRANG (CHỮ NHỎ) =====
 st.divider()
-st.caption("Người thực hiện: Thiên Đại Dũng - MSSV: 058208003926 ")
+st.caption("Người thực hiện: Thiên Đại Dũng - MSSV:058208003926 ")
